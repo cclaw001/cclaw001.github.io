@@ -1899,8 +1899,7 @@ beachfront.com,14804,RESELLER,e2541279e8e2ca4d
 improvedigital.com,2050,RESELLER
 mintegral.com,10043,RESELLER,0aeed750c80d6423
 sonobi.com,24f603762e,RESELLER,d1a215d9eb5aee9e
-pubmatssic.com,160080,RESELLER,5d62403b186f2ace
+pubmatic.com,160080,RESELLER,5d62403b186f2ace
 
 #Index
 indexexchange.com, 201411, DIRECT, 50b1c356f2c5c8fc
-
